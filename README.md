@@ -27,7 +27,7 @@
 <a href="https://instagram.com/krutarth_92" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="krutarth_92" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/krutarth_45" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="krutarth_45" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/krutarth_45" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="krutarth_45" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/krutarth_45" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="krutarth_45" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/krutarth45" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="krutarth_45" height="30" width="40" /></a>
 </p>
 <br>
 <h2 align="left">🌟 Languages and Tools:</h2>
