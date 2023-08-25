@@ -1,40 +1,129 @@
-![MasterHead](https://qph.cf2.quoracdn.net/main-qimg-fa7b4bdc3b2f73e749e5c2c646d4ae13)
 <h1 align="center">Hi 👋, I'm Krutarth Patel</h1>
 <h3 align="center">A passionate MERN Stack developer and Competitive Coder from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="krutarth19" />
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=krutarth19&label=Profile%20views&color=0e75b6&style=flat" alt="krutarth19" /> </p>
+
 
 <h2 align="left">🌟 About Me:</h2>
 
-- 🏫 Study At **Pandit Deendayal Energy University, Gandhinagar, Gujarat, India.**
-
-- 💬 Ask me about **Frontend, MERN etc.**
+- 🏫 Study At Pandit Deendayal Energy University, Gandhinagar, Gujarat, India.
+  
+- ❓ Curious about software engineering practices and technologies.
+  
+- 💬 Ask me about Frontend,Backend, MERN etc.
 
 - 📫 How to reach me **patelkrutarth182@gmail.com**
 
 - 📄 Know about my experiences [http://bit.ly/40jJmOw](https://drive.google.com/file/d/12DhmHW6i7Y47edWf49byPDMX4D8MBlCu/view)
 
-- ⚡ Fun fact **I Am Funny and Lazy🙂**
+- ⚡ Fun fact I Am Funny and Lazy🙂.
+
+
 
 
 <br>
 <h2 align="left"> 🌟 Connect with me:</h2>
 <br>
-<p align="left">
-<a href="https://linkedin.com/in/krutarth-patel-653065205" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="krutarth-patel-653065205" height="30" width="40" /></a>
-<a href="https://instagram.com/krutarth_92" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="krutarth_92" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/krutarth_45" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="krutarth_45" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/krutarth_45" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="krutarth_45" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/krutarth45" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="krutarth_45" height="30" width="40" /></a>
-</p>
+<div align="center">
+
+
+<a href="https://www.leetcode.com/krutarth_45" target="_blank">
+<img src="https://img.shields.io/badge/leetcode-%2324292e.svg?&style=for-the-badge&logo=leetcode&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://auth.geeksforgeeks.org/user/krutarth45" target="_blank">
+<img src="https://img.shields.io/badge/geeksforgeeks-%2324292e.svg?&style=for-the-badge&logo=geeksforgeeks&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+
+
+
+<a href="https://www.threads.net/@krutarth_92" target="_blank">
+<img src="https://img.shields.io/badge/threads-%2324292e.svg?&style=for-the-badge&logo=threads&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/krutarth-patel-653065205" target="_blank">
+<img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://www.instagram.com/Krutarth_92/" target="_blank">
+<img src="https://img.shields.io/badge/instagram-%2324292e.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>  
+<a href="https://github.com/krutarth19" target="_blank">
+<img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+</div>  
+
+
 <br>
+
+
 <h2 align="left">🌟 Languages and Tools:</h2>
 <br>
-<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
+<div align="center">
+  <h3>Languages</h3>
+   <div style="display: flex; justify-content: center;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++"  width="40" height="40"  style="margin-right: 10px;">
+     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C"  width="40" height="40" alt="Bootstrap" style="margin-right: 10px; ">
+    
+  </div>
+
+  <h3>Front-end development</h3>
+  <div style="display: flex; justify-content: center;">
+     <img src="https://github.com/vipulchaudhary16/vipulchaudhary16/blob/main/Images/Tools/icons8-html.svg" alt="HTML" style="margin-right: 10px; width: 40px; height: 40px;">
+  <img src="https://github.com/vipulchaudhary16/vipulchaudhary16/blob/main/Images/Tools/icons8-css.svg" alt="CSS" style="margin-right: 10px; width: 40px; height: 40px;">
+  <img src="https://github.com/vipulchaudhary16/vipulchaudhary16/blob/main/Images/Tools/icons8-javascript.svg" alt="JavaScript" style="margin-right: 10px; width: 40px; height: 40px;">
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" style="margin-right: 10px; width: 40px; height: 40px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="scss" style="margin-right: 10px; width: 40px; height: 40px;">
+  <img src="https://github.com/vipulchaudhary16/vipulchaudhary16/blob/main/Images/Tools/icons8-react.svg" alt="ReactJS" style="margin-right: 10px; width: 40px; height: 40px;">
+  <img src="https://github.com/vipulchaudhary16/vipulchaudhary16/blob/main/Images/Tools/icons8-redux.svg" alt="Redux" style="margin-right: 10px; width: 40px; height: 40px;">
+  <img src="https://github.com/vipulchaudhary16/vipulchaudhary16/blob/main/Images/Tools/icons8-typescript.svg" alt="TypeScript" style="margin-right: 10px; width: 40px; height: 40px;">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" style="margin-right: 10px; width: 40px; height: 40px;" alt="React"/>
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" style="margin-right: 10px; width: 40px; height: 40px;" alt="NextJs" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" style="margin-right: 10px; width: 40px; height: 40px;" alt="TailwindCSS" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/chakra-colored.svg" style="margin-right: 10px; width: 40px; height: 40px;" alt="Chakra UI" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" style="margin-right: 10px; width: 40px; height: 40px;" alt="Redux" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" style="margin-right: 10px; width: 40px; height: 40px;" alt="Vite" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" style="margin-right: 10px; width: 40px; height: 40px;" alt="GraphQL" />
+</p>
+  </div>
+
+  <h3>Back-end development</h3>
+  <div style="display: flex; justify-content: center;">
+   <img src="https://github.com/vipulchaudhary16/vipulchaudhary16/blob/main/Images/Tools/icons8-nodejs.svg" alt="Node.js" style="margin-right: 10px; width: 40px; height: 40px;">
+<img src="https://github.com/vipulchaudhary16/vipulchaudhary16/blob/main/Images/Tools/MongoDB.png" alt="MongoDB" style="margin-right: 10px; width: 40px; height: 40px;">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" alt="Express" style="margin-right: 10px; width: 40px; height: 40px;">
+<img src="https://github.com/vipulchaudhary16/vipulchaudhary16/blob/main/Images/Tools/icons8-amazon-web-services.svg" alt="AWS" style="margin-right: 10px; width: 40px; height: 40px;">
+<img src="https://github.com/vipulchaudhary16/vipulchaudhary16/blob/main/Images/Tools/icons8-mysql.svg" alt="MySQL" style="margin-right: 10px; width: 40px; height: 40px;">
+
+    
+  </div>
+
+  <h3>Other tools & Frameworks</h3>
+  <div style="display: flex; justify-content: center;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40" alt="Bootstrap" style="margin-right: 10px;">
+    <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="Framer Motion" width="40" height="40" style="margin-right: 10px;">
+    <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" style="margin-right: 10px;">
+    <img src="https://github.com/vipulchaudhary16/vipulchaudhary16/blob/main/Images/Tools/icons8-postman-48.png" alt="Postman" style="margin-right: 10px;">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="40" height="40" alt="Heroku" style="margin-right: 10px;">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="40" height="40" alt="Git" style="margin-right: 10px;">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="40" height="40" alt="Material UI">
+  </div> 
+</div>
+
+<h2 align="left"> 🌟 My GitHub Stats:</h2>
 <br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krutarth19&" alt="krutarth19" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=krutarth19&show_icons=true&locale=en" alt="krutarth19" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=krutarth19&show_icons=true&locale=en&layout=compact" alt="krutarth19" /></p>
+<a href="http://www.github.com/Krutarth19"><img src="https://github-readme-stats.vercel.app/api?username=Krutarth19&show_icons=true&hide=&count_private=true&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=171717&hide_border=true&show_icons=true" alt="Krutarth19's GitHub stats" /></a>
+<br/><a href="http://www.github.com/Krutarth19"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Krutarth19&stroke=ffffff&background=171717&ring=6366f1&fire=6366f1&currStreakNum=ffffff&currStreakLabel=6366f1&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<br/>
+<a href="https://github.com/Krutarth19" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krutarth19&langs_count=10&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+<h2 align="left"> 🌟 Views and Followers:</h2>
+<br>
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=Krutarth19">
+</a>
+<a href="https://github.com/Krutarth19?tab=followers"><img src="https://img.shields.io/github/followers/Krutarth19?label=Followers&style=social" alt="GitHub Badge"></a>
+  
+
+
+
 
