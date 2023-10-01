@@ -12,9 +12,9 @@
   
 - 💬 Ask me about Frontend,Backend, MERN etc.
 
-- 📫 How to reach me **patelkrutarth182@gmail.com**
+- 📫 How to reach me **krutarth2906@gmail.com**
 
-- 📄 Know about my experiences [http://bit.ly/40jJmOw](https://drive.google.com/file/d/12DhmHW6i7Y47edWf49byPDMX4D8MBlCu/view)
+- 📄 Know about my experiences [http://bit.ly/48MkC6C]
 
 - ⚡ Fun fact I Am Funny and Lazy🙂.
 
